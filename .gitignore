@@ -5,7 +5,6 @@
 inst/doc
 .Rproj.user
 .Rhistory
-.travis.yml
 
 # testthat artifact
 tests/testthat/Rplots.pdf
